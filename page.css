@@ -234,10 +234,9 @@ body{
 }
 @font-face {
     font-family: SpaceCadet;
-    src: url(/portofolio/fonts/space-cadets-font/SpaceCadets-exZm.ttf);
+    src: url(/fonts/space-cadets-font/SpaceCadets-exZm.ttf);
 }
 .ability{
-    
     margin-top: 50px;
 }
 .ability-container{
